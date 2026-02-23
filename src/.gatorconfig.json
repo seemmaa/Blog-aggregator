@@ -1,0 +1,4 @@
+{
+  "db_url": "postgres://example",
+  "connection_string": "postgres://mac:@localhost:5432/gator?sslmode=disable"
+}
